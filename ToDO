@@ -1,9 +1,14 @@
+- need TT in table view w dates format and sl#
+- get by race (TT and results)
+- championship table
+
+- https://motorsportstats.com/results/motogp/2022/grand-prix-of-qatar/info
+    - for timings 
+
 - https://www.motogp.com/en/gp-results/2022/QAT/MotoGP/FP2/Classification
-    - send requests to here?
+    - send requests to here for results?
 
 - https://motorsportstats.com/series/motogp/calendar/2022
-    - to be parsed to get in table
-    - /series/fq/calender
-- parsing w python : requests and beautifulsoup | parsing w regex and powershell
-    - https://www.twilio.com/blog/web-scraping-and-parsing-html-in-python-with-beautiful-soup
-- need json view as well, indv results 
+    - to be parsed to get in TT
+    - [/series/f1/calender]
+
